@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm James. 👋
 
-<!--
-**jamesqquick/jamesqquick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Speaker, and Teacher!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on JAMstack content!
+- 🌱 I’m currently learning GraphQL, Next.js, Design, testing
+- 💬 Ask me about JavaScript, Full Stack development, JAMstack, and building cool sh*t
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+[website]: https://jamesqquick.com
+[twitter]: https://twitter.com/jamesqquick
+[youtube]: https://youtube.com/jamesqquick
+[twitch]: https://twitch.tv/jamesqquick
+[instagram]: https://instagram.com/jamesqquick
+[linkedin]: https://linkedin.com/in/jamesqquick
+[npm]: https://npmjs.com/~jamesqquick
