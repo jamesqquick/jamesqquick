@@ -1,6 +1,4 @@
-### Hi, I'm James. 👋
-
-## I'm a Developer, Speaker, and Teacher!
+## Hi, I'm James 👋 I'm a Developer, Speaker, and Teacher!
 
 - 🔭 I’m currently working on JAMstack content!
 - 🌱 I’m currently learning GraphQL, Next.js, Design, testing
