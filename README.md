@@ -13,11 +13,6 @@ James is a JavaScript Developer, Speaker, and Teacher with a passion for teachin
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-<a href="https://www.twitter.com/jamesqquick" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/jamesqquick?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/jamesqquick" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/jamesqquick?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
 ### Skills
 
 
@@ -39,6 +34,13 @@ src="https://img.shields.io/twitch/status/jamesqquick?logo=twitchsx&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://jamesqquick.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/jamesqquick" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+<br/>
+<a href="https://www.twitter.com/jamesqquick" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/jamesqquick?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/jamesqquick" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/jamesqquick?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 
 Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
 
