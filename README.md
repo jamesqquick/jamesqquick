@@ -13,6 +13,8 @@ James is a JavaScript Developer, Speaker, and Teacher with a passion for teachin
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
+Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
+
 ### Skills
 
 
@@ -42,5 +44,5 @@ src="https://img.shields.io/twitter/follow/jamesqquick?logo=twitter&style=for-th
 src="https://img.shields.io/twitch/status/jamesqquick?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 
-Shoutout to [Brad Garropy](https://bradgarropy.com/) for the inspiration!
+
 
