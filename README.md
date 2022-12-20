@@ -7,7 +7,6 @@ Developer. Speaker. Teacher.
 James is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
 
 * 🌍  I'm based in Memphis, TN
-* 🚀  I'm currently working on [Everything Svelte (complete SvelteKit course)](http://everythingsvelte.com/)
 * 🧠  I'm learning everything JavaScript
 * 🏡 [website](https://jamesqquick.com/)
 * 😄 Pronouns: he/him
