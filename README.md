@@ -8,7 +8,7 @@ James is a JavaScript Developer, Speaker, and Teacher with a passion for teachin
 
 * 🌍  I'm based in Memphis, TN
 * 🧠  I'm learning everything JavaScript
-* 🏡 [website](https://jamesqquick.com/)
+* 🏡 [My website](https://jamesqquick.com/)
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
